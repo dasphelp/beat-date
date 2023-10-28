@@ -1,5 +1,5 @@
 const CLIENT_ID = '2b7912c80215474e8e7b6482ffeee742';
-const REDIRECT_URI = 'http://127.0.0.1:5500/index.html';
+const REDIRECT_URI = 'https://dasphelp.github.io/beat-date/';
 const SCOPES = [
     'user-library-read',
     'playlist-modify-public',
