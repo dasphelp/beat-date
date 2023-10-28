@@ -1,0 +1,51 @@
+/* Basic styling */
+
+#logo {
+    font-size: 4rem;
+}
+
+#analyze-button {
+    margin-top: 4rem;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F0F0D8;
+}
+
+header {
+    background-color: #48A848;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1rem;
+}
+
+.hidden {
+    display: none;
+}
+
+.nav-btn {
+    color: #181818;
+    text-align: center;
+    --bs-nav-link-hover-color: #F0F0D8;
+}
+
+.active {
+    background-color: #48C0C0;
+}
+
+.nav-pills > li {
+    display: inline-block;
+}
+
+/* Add more styling enhancements as needed */
